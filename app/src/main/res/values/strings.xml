@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tuan\'s Notes</string>
+    <string name="priority">Priority</string>
+    <string name="name_placeholder">Name</string>
+    <string name="description_placeholder">Description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description description</string>
+    <string name="date_placeholder">Feb 7, 2023</string>
+    <string name="new_note">NEW NOTE</string>
+    <string name="create_new_note">CREATE NEW NOTE</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+</resources>
